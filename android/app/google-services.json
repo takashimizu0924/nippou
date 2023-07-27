@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "31361694882",
+    "project_id": "zerohm-nippou-app",
+    "storage_bucket": "zerohm-nippou-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31361694882:android:b9ffcfe12450332b552bfb",
+        "android_client_info": {
+          "package_name": "com.example.nippou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31361694882-7hh3b2tlgjq1ask8q86dq7sr6fanrk90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpecb_Q8yYwbdu7fW9BqncG0oBMJ3YxnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31361694882-7hh3b2tlgjq1ask8q86dq7sr6fanrk90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31361694882-pboubton9d77t73u3imhvtka30293b2q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nippou.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

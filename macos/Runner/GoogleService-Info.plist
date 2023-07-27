@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>31361694882-pboubton9d77t73u3imhvtka30293b2q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.31361694882-pboubton9d77t73u3imhvtka30293b2q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsmrZoQuyeWnsuqU5l9dwgntDRzeQswBw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>31361694882</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nippou.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>zerohm-nippou-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zerohm-nippou-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:31361694882:ios:c33267cad161f212552bfb</string>
+</dict>
+</plist>
